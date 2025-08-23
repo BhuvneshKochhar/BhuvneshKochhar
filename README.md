@@ -1,4 +1,4 @@
-👋 Hi, I’m @BhuvneshKochhar (but you can call me Nash or Bhuv!
+👋 Hi, I’m @BhuvneshKochhar but you can call me Nash or Bhuv!
 
 - 👀 I’m into everything that makes data dance—analytics, machine learning, and visualization! Tech/AI, finance, and health analytics are my playgrounds.
 - 🌱 Currently diving deep into my Master's in Data Science at The University Of Western Australia, I'm always hungry to learn more!
